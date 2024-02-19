@@ -80,4 +80,24 @@ Whether you're interested in collaborating on exciting projects, discussing emer
     </a> 
 </p>
 
+## More:
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "Solidity"],
+    askMeAbout: ["web dev", "tech", "app dev", "design"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development", "Flutter"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["selenium", "open-cv"]
+    },
+    architecture: ["Single page applications"]
+};
+
 
