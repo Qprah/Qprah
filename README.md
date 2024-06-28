@@ -1,6 +1,6 @@
 # Hi there, I'm Anmolpreet Singh! 👋
 
-I'm a passionate third-year Computer Science student with a strong inclination towards cutting-edge technologies and innovative projects. Here's what I'm currently immersed in:
+I'm a passionate fourth-year Computer Science student with a strong inclination towards cutting-edge technologies and innovative projects. Here's what I'm currently immersed in:
 
 ## About Me
 
@@ -91,7 +91,7 @@ const anmol = {
             js: ["Node", "Express"],
         },
         mobileApp: {
-            native: ["Android Development", "Flutter"]
+            native: ["Android Development", "React-native"]
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "sqlite"],
