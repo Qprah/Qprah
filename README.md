@@ -21,11 +21,11 @@ Whether you're interested in collaborating on exciting projects, discussing emer
 
 ## Projects:
 <a href="https://github.com/Qprah/HCI-3020-Fitness-Companion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=HCI-3020-Fitness-Companion&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=HCI-3020-Fitness-Companion&theme=onedark" />
 </a>
 
 <a href="https://github.com/Qprah/Chess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=Chess&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=Chess&theme=tokyonight" />
 </a> 
 
 ## Languages and Tools:
