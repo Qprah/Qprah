@@ -7,19 +7,18 @@ I'm a passionate fourth-year Computer Science student with a strong inclination 
 - Currently diving deep into mastering the **MERN stack** for web development and **Solidity** for blockchain applications, with the ultimate goal of contributing to the exciting world of **Web 3.0** applications.
 - Additionally, I'm expanding my skill set by learning **AWS** for cloud computing, with a particular interest in becoming a **solutions architect**.
 - Concurrently, I'm working as a freelancer, collaborating with early-stage startups to bring their visions to life through custom software solutions.
-- Moreover, I have a keen interest in **UI/UX design** and plan to transition from using Android Studio to **Flutter** for building cross-platform applications in the near future.
+- Moreover, I have a keen interest in **UI/UX design** and plan to transition from using Android Studio to **React Native** for building cross-platform applications in the near future.
 
 ## Interests
 
-Beyond my technical endeavors, I'm fascinated by the intersection of technology, entrepreneurship, and design. I enjoy exploring new ideas, solving complex problems, and envisioning innovative solutions that drive positive change.
+**Gaming, Travelling, Sleeping, and trying out new things.**
 
-## Get in Touch
+## Let's Connect! [(LinkedIn)](https://www.linkedin.com/in/anmolp-singh/)
 
-Connect with me on [[LinkedIn](https://www.linkedin.com/in/anmolp-singh/)] to learn more about my journey, projects, and aspirations.
+Whether you're interested in collaborating on exciting projects, discussing emerging technologies, or sharing insights on design and entrepreneurship, I'm always open to connect and explore new opportunities together! 
 
-## Let's Connect!
+Connect with me to learn more about my journey, projects, and aspirations.
 
-Whether you're interested in collaborating on exciting projects, discussing emerging technologies, or sharing insights on design and entrepreneurship, I'm always open to connect and explore new opportunities together!
 
 ## Languages and Tools:
 
@@ -79,25 +78,4 @@ Whether you're interested in collaborating on exciting projects, discussing emer
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
 </p>
-
-## More:
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Solidity"],
-    askMeAbout: ["web dev", "tech", "app dev", "design"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development", "React-native"]
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["selenium", "open-cv"]
-    },
-    architecture: ["Single page applications"]
-};
-
 
