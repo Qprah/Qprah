@@ -24,6 +24,10 @@ Connect with me to learn more about my journey, projects, and aspirations.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=CourseWork&theme=gruvbox" />
 </a> 
 
+<a href="https://github.com/Qprah/Chess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=Chess&theme=merko" />
+</a> 
+
 ## Languages and Tools:
 
 <p align="center"> 
