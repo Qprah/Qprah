@@ -20,6 +20,10 @@ Whether you're interested in collaborating on exciting projects, discussing emer
 **Connect with me to learn more about my journey, projects, and aspirations.**
 
 ## Projects:
+<a href="https://github.com/Qprah/SE-3350-G4-UPlanner-APP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=SE-3350-G4-UPlanner-APP&theme=merko" />
+</a>
+
 <a href="https://github.com/Qprah/HCI-3020-Fitness-Companion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=HCI-3020-Fitness-Companion&theme=onedark" />
 </a>
