@@ -19,6 +19,10 @@ Whether you're interested in collaborating on exciting projects, discussing emer
 
 Connect with me to learn more about my journey, projects, and aspirations.
 
+## Projects:
+<a href="https://github.com/Qprah/CourseWork">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=CourseWork&theme=radical" />
+</a> 
 
 ## Languages and Tools:
 
