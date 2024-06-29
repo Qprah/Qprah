@@ -24,10 +24,13 @@ Whether you're interested in collaborating on exciting projects, discussing emer
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=HCI-3020-Fitness-Companion&theme=radical" />
 </a>
 
-
 <a href="https://github.com/Qprah/Chess">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=Chess&theme=merko" />
 </a> 
+
+<a href="https://github.com/Qprah/CourseWork">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=CourseWork&theme=dark" />
+</a>
 
 ## Languages and Tools:
 
