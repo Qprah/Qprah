@@ -17,7 +17,7 @@ I'm a passionate fourth-year Computer Science student with a strong inclination 
 
 Whether you're interested in collaborating on exciting projects, discussing emerging technologies, or sharing insights on design and entrepreneurship, I'm always open to connect and explore new opportunities together! 
 
-Connect with me to learn more about my journey, projects, and aspirations.
+**Connect with me to learn more about my journey, projects, and aspirations.**
 
 ## Projects:
 <a href="https://github.com/Qprah/CourseWork">
