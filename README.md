@@ -21,7 +21,7 @@ Whether you're interested in collaborating on exciting projects, discussing emer
 
 ## Projects:
 <a href="https://github.com/Qprah/SE-3350-G4-UPlanner-APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=SE-3350-G4-UPlanner-APP&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=SE-3350-G4-UPlanner-APP&theme=radical" />
 </a>
 
 <a href="https://github.com/Qprah/HCI-3020-Fitness-Companion">
