@@ -4,7 +4,7 @@ I'm a passionate fourth-year Computer Science student with a strong inclination 
 
 ## About Me
 
-- Currently diving deep into mastering the **MERN stack** for web development and **Solidity** for blockchain applications, with the ultimate goal of contributing to the exciting world of **Web 3.0** applications.
+- Currently diving deep into mastering **web development** and **Solidity**, with the ultimate goal of contributing to the exciting world of **Web 3.0** applications.
 - Additionally, I'm expanding my skill set by learning **AWS** for cloud computing, with a particular interest in becoming a **solutions architect**.
 - Concurrently, I'm working as a freelancer, collaborating with early-stage startups to bring their visions to life through custom software solutions.
 - Moreover, I have a keen interest in **UI/UX design** and plan to transition from using Android Studio to **React Native** for building cross-platform applications in the near future.
