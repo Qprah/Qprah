@@ -23,7 +23,7 @@ Whether you're interested in collaborating on exciting projects, discussing emer
 
 ## Projects:
 <a href="https://github.com/ramanbhandari/vamoose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=SE-3350-G4-UPlanner-APP&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=Vamoose&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Qprah/SE-3350-G4-UPlanner-APP">
@@ -97,3 +97,9 @@ Whether you're interested in collaborating on exciting projects, discussing emer
     </a> 
 </p>
 
+## My GitHub Stats
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prithaxx&show_icons=true&theme=transparent" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithaxx&hide_progress=true&theme=transparent" width="400" height="200" />
+</p>
