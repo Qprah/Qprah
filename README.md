@@ -1,13 +1,15 @@
 # Hi there, I'm Anmolpreet Singh! 👋
 
-I'm a passionate fourth-year Computer Science student with a strong inclination towards cutting-edge technologies and innovative projects. Here's what I'm currently immersed in:
+I'm a Computer Science Graduate with a double minor in Statistics and Maths. I have strong inclination towards cutting-edge technologies and innovative projects. Here's what I'm currently immersed in:
 
 ## About Me
 
 - Currently diving deep into mastering **web development** and **Solidity**, with the ultimate goal of contributing to the exciting world of **Web 3.0** applications.
 - Additionally, I'm expanding my skill set by learning **AWS** for cloud computing, with a particular interest in becoming a **solutions architect**.
 - Concurrently, I'm working as a freelancer, collaborating with early-stage startups to bring their visions to life through custom software solutions.
-- Moreover, I have a keen interest in **UI/UX design** and plan to transition from using Android Studio to **React Native** for building cross-platform applications in the near future.
+
+- 👯 I’m looking to collaborate on projects related to Full-Stack Development, Web Development, Distributed Systems, Data Analysis, and Cloud Computing!
+- 📫 Please reach out to me on my email `anmolp.singh9@gmail.com` or feel free to drop a message on my [website](https://anmols.info/)
 
 ## Interests
 
@@ -20,6 +22,10 @@ Whether you're interested in collaborating on exciting projects, discussing emer
 **Connect with me to learn more about my journey, projects, and aspirations.**
 
 ## Projects:
+<a href="https://github.com/ramanbhandari/vamoose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=SE-3350-G4-UPlanner-APP&theme=onedark" />
+</a>
+
 <a href="https://github.com/Qprah/SE-3350-G4-UPlanner-APP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qprah&repo=SE-3350-G4-UPlanner-APP&theme=radical" />
 </a>
