@@ -1,3 +1,5 @@
+<img src="/hehe.png" width="100%" height="100%" />
+
 # Hi there, I'm Anmolpreet Singh! 👋
 
 I'm a Computer Science Graduate with a double minor in Statistics and Maths. I have strong inclination towards cutting-edge technologies and innovative projects. Here's what I'm currently immersed in:
@@ -95,11 +97,4 @@ Whether you're interested in collaborating on exciting projects, discussing emer
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
-</p>
-
-## My GitHub Stats
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithaxx&show_icons=true&theme=transparent" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithaxx&hide_progress=true&theme=transparent" width="400" height="200" />
 </p>
